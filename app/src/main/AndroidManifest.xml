@@ -19,7 +19,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".view.ui.actividades.SplashActivity"></activity>
+        <activity android:name=".view.ui.actividades.SplashActivity" />
+        <activity android:name=".view.ui.actividades.EmparejarActivity" />
+        <activity android:name=".view.ui.actividades.SensoresActivity" />
+        <activity android:name=".view.ui.actividades.PulsoActivity" />
+        <activity android:name=".view.ui.actividades.TempActivity" />
+        <activity android:name=".view.ui.actividades.OxigeActivity"></activity>
     </application>
 
 </manifest>
